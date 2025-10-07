@@ -17,13 +17,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" style="border-radius: 10px; margin: 5px;" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius: 10px; margin: 5px;" />
+<img src="https://badgen.net/badge/PHP/777BB4/777BB4?icon=php&labelColor=777BB4&color=white&scale=1.2&radius=8" alt="PHP" />
+<img src="https://badgen.net/badge/HTML5/E34F26/E34F26?icon=html5&labelColor=E34F26&color=white&scale=1.2&radius=8" alt="HTML5" />
+<img src="https://badgen.net/badge/CSS3/1572B6/1572B6?icon=css3&labelColor=1572B6&color=white&scale=1.2&radius=8" alt="CSS3" />
+<img src="https://badgen.net/badge/JavaScript/F7DF1E/F7DF1E?icon=javascript&labelColor=F7DF1E&color=black&scale=1.2&radius=8" alt="JavaScript" />
+<img src="https://badgen.net/badge/MySQL/4479A1/4479A1?icon=mysql&labelColor=4479A1&color=white&scale=1.2&radius=8" alt="MySQL" />
+<img src="https://badgen.net/badge/jQuery/0769AD/0769AD?icon=jquery&labelColor=0769AD&color=white&scale=1.2&radius=8" alt="jQuery" />
+<img src="https://badgen.net/badge/Bootstrap/7952B3/7952B3?icon=bootstrap&labelColor=7952B3&color=white&scale=1.2&radius=8" alt="Bootstrap" />
 
 </div>
 
