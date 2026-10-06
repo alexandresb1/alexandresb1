@@ -1,0 +1,62 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="260" fill="#0d1117"/>
+
+<!-- linhas decorativas -->
+<line x1="60" y1="55" x2="1140" y2="55"
+stroke="#30363d" stroke-width="1"/>
+
+<line x1="60" y1="205" x2="1140" y2="205"
+stroke="#30363d" stroke-width="1"/>
+
+<!-- detalhes laterais -->
+<line x1="60" y1="55" x2="60" y2="205"
+stroke="#58a6ff" stroke-width="3"/>
+
+<line x1="1140" y1="55" x2="1140" y2="205"
+stroke="#58a6ff" stroke-width="3"/>
+
+<!-- pequeno indicador -->
+<circle cx="85" cy="80" r="5" fill="#58a6ff"/>
+
+<text x="105" y="86"
+font-family="Orbitron, Rajdhani, Arial"
+font-size="14"
+letter-spacing="4"
+fill="#8b949e">
+USER PROFILE
+</text>
+
+<!-- nome -->
+<text x="600" y="145"
+text-anchor="middle"
+font-family="Orbitron, Rajdhani, Arial"
+font-size="48"
+font-weight="700"
+letter-spacing="8"
+fill="#f0f6fc">
+ALEXANDRE
+</text>
+
+<!-- subtítulo -->
+<text x="600" y="178"
+text-anchor="middle"
+font-family="Rajdhani, Arial"
+font-size="18"
+letter-spacing="5"
+fill="#8b949e">
+FULL-STACK  •  WEB  •  BACK-END
+</text>
+
+<!-- status -->
+<text x="1090" y="86"
+text-anchor="end"
+font-family="Share Tech Mono, monospace"
+font-size="12"
+letter-spacing="2"
+fill="#58a6ff">
+ONLINE
+</text>
+
+</svg>

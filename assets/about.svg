@@ -1,0 +1,22 @@
+<svg width="1200" height="70"
+xmlns="http://www.w3.org/2000/svg">
+
+<rect width="1200" height="70" fill="#0d1117"/>
+
+<text x="20" y="43"
+font-family="Orbitron, Rajdhani, Arial"
+font-size="25"
+font-weight="700"
+letter-spacing="4"
+fill="#f0f6fc">
+SOBRE MIM
+</text>
+
+<line x1="20" y1="58" x2="1180" y2="58"
+stroke="#30363d"/>
+
+<line x1="20" y1="58" x2="150" y2="58"
+stroke="#58a6ff"
+stroke-width="2"/>
+
+</svg>
