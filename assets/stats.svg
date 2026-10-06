@@ -10,7 +10,7 @@ font-size="24"
 font-weight="700"
 letter-spacing="4"
 fill="#f0f6fc">
-GITHUB // STATISTICS
+ESTATÍSTICAS GITHUB
 </text>
 
 <!-- Linha principal -->
@@ -26,14 +26,5 @@ stroke-width="2"/>
 <!-- Indicador -->
 <circle cx="1160" cy="30" r="4"
 fill="#58a6ff"/>
-
-<text x="1145" y="35"
-text-anchor="end"
-font-family="Share Tech Mono, monospace"
-font-size="11"
-letter-spacing="2"
-fill="#8b949e">
-DATA
-</text>
 
 </svg>
